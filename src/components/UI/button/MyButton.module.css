@@ -1,0 +1,11 @@
+.btn {
+  width: 250px;
+  height: 250px;
+  font-size: 200px;
+  color: lightblue;
+  border: 1px solid gray;
+}
+
+.btn:hover {
+  background-color: rgb(122, 119, 119);
+}
